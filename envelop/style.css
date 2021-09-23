@@ -172,10 +172,10 @@
 .container .envelope .paper h3:hover {
     color:thistle;
 }    
-.container .envelope .paper h3:hover .i {
+.container .envelope .paper h3:hover .design {
     border-color: rgb(235, 225, 225);
 }    
-.container .envelope .paper h3 .i {
+.container .envelope .paper h3 .design {
     position: absolute;
     top: 0px;
     left: 17px;
